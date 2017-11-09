@@ -1,0 +1,43 @@
+.sidebar {
+	margin-left: 600px; 
+	position: absolute; 
+	top: 0; 
+    right: 0;
+    background: #cce6ff;
+    height: 100%;
+    }
+.sidebar a {
+    font: 20px arial, sans-serif;
+    padding: 10px;
+    
+}
+.sidebar h2 {
+    font: 20px georgia, serif;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font: 40px georgia, serif;
+    text-align: center;
+}
+h2 {
+    font: 20px georgia, serif;
+    font-style: bold
+}
+h3 {
+    font: 15px georgia, serif;
+}
+p {
+    font: 15px arial, sans-serif;
+    
+}
+header h2 {
+    font: 20px georgia, serif;
+    text-align: center
+}
+figcaption {
+    font: 10px; 
+    padding: 3px;
+    font-style: italic;
+}
